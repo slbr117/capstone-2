@@ -65,7 +65,7 @@ To help kickstart your "Understanding the Problem / Planning phases of the proje
 
 Everything specified above should give you enough guidance and direction for how to approach the project.  
 
-A final point to note, as you code the project, you will mmost likely need to go back to the UPER.md document add & modify it incrementally.  Such are the ways of the Agile Dev Ninja. 🥷 This will be especially applicable to  Step 4 of UPER - **Reflection / Refactoring**
+A final point to note, as you code the project, you will mmost likely need to go back to the UPER.md document add & modify it incrementally.  Such are the ways of the Agile Dev Ninja.🕶 This will be especially applicable to  Step 4 of UPER - **Reflection / Refactoring**
 
 ***************************************************************
 <h2>Core Requirements :</h2> 
@@ -100,7 +100,16 @@ A final point to note, as you code the project, you will mmost likely need to go
   * Interface Segregation Principle
   * Dependency Inversion Principle
 
-* Incorporate at least 3 Object Oriented Design Patterns into your project.  
+* Incorporate at least 3 Object Oriented Design Patterns into your project.  There are many patterns, but here are a few examples:
+  
+  * Singleton
+  * Decorator
+  * Facade
+  * Observer
+  * Chain of Responsibility
+
+
+For the OOD Principles and OOD Patterns, you should be able to explain them clearly and demonstrate how you used them in your code to earn the full bonus points on these categories.
 
 * Develop a front end UI for the game in React.js.  Wire it up with your Java Model.
   
