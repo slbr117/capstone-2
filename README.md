@@ -1,6 +1,5 @@
 # Capstone 2 - Java Based Terminal Game
 
-
 1. There is a file <code>OOP.md</code> in the root level of this repository.  Please answer the questions in that file.
 
 2. Create a terminal based, 2D game.  Written in Java.  Following are the game ideas:
@@ -120,8 +119,6 @@ A final point to note, as you code the project, you will mmost likely need to go
   * Chain of Responsibility
 
 For the OOD Principles and OOD Patterns, you should be able to explain them clearly and demonstrate how you used them in your code to earn the full bonus points on these categories.
-
-* Develop a front end UI for the game in React.js.  Wire it up with your Java Model.
   
 * Implement a 3rd party Java library to aid you in Java Game Development.  A few examples:
   * [Slick2D](http://slick.ninjacave.com/)
@@ -130,7 +127,6 @@ For the OOD Principles and OOD Patterns, you should be able to explain them clea
   * [LITIENGINE](https://litiengine.com/)
   * [Java Swing](https://docs.oracle.com/javase/tutorial/uiswing/)
 
-
 * Create a landing page built in HTML / CSS or in React to showcase the features, functionality, and instructions for how to play your game.  Host the landing page with an online deployment tool, such as : 
   - [netlify](https://www.netlify.com/)
   - [surge.sh](https://surge.sh/)
@@ -138,5 +134,7 @@ For the OOD Principles and OOD Patterns, you should be able to explain them clea
   - [Vercel (Zeit Now)](https://vercel.com/)
   - [Amazon Web Services S3](https://aws.amazon.com/)
   - [Digital Ocean](https://try.digitalocean.com/developerbrand/?_dkitrig=Cloud)
+
+* Develop a front end UI for the game in React.js.  Wire it up with your Java Model.**
   
-* It may be interesting to see how you can integrate the Java libraries with react.  You may not need to, but look and see if this is possible.  Looking forward to hear about your findings
+* Note may be interesting to see how you can integrate the Java libraries with React.  You may not need to; it could be an either or situation, but look and see if this is possible.  Looking forward to hear about your findings.
