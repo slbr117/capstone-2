@@ -75,7 +75,11 @@ To help kickstart your "Understanding the Problem / Planning phases of the proje
 
 Everything specified above should give you enough guidance and direction for how to approach the project.  
 
-A final point to note, as you code the project, you will mmost likely need to go back to the UPER.md document add & modify it incrementally.  Such are the ways of the Agile Dev Ninja.🕶 This will be especially applicable to  Step 4 of UPER - **Reflection / Refactoring**
+A final point to note, as you code the project, you will mmost likely need to go back to the UPER.md document to add & modify it incrementally.  Such are the ways of the Agile Dev Ninja. 
+![Agile Dev Ninja](./assets/ninja%20cat.png)
+
+
+This will be especially applicable to  Step 4 of UPER - **Reflection / Refactoring**
 
 ***************************************************************
 <h2>Core Requirements :</h2> 
