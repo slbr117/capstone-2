@@ -100,14 +100,6 @@ A final point to note, as you code the project, you will mmost likely need to go
 - Have an organized and logical project structure with at least 1 package
 - Have some type of error handling for bad user input (incorrect key press, etc.)
 
-- Create a landing page built in HTML / CSS or in React to showcase the features, functionality, and instructions for how to play your game.  Host the landing page online an online tool, such as : 
-  - [netlify](https://www.netlify.com/)
-  - [surge.sh](https://surge.sh/)
-  - [github pages](https://pages.github.com/)
-  - [Vercel (Zeit Now)](https://vercel.com/)
-  - [Amazon Web Services S3](https://aws.amazon.com/)
-  - [Digital Ocean](https://try.digitalocean.com/developerbrand/?_dkitrig=Cloud)
-
 
 ****************************************************************
 * <h2>Bonus ⭐️ ⭐️ ⭐️ ⭐️ ⭐️</h2>
@@ -137,5 +129,14 @@ For the OOD Principles and OOD Patterns, you should be able to explain them clea
   * [libGDX](https://libgdx.badlogicgames.com/)
   * [LITIENGINE](https://litiengine.com/)
   * [Java Swing](https://docs.oracle.com/javase/tutorial/uiswing/)
+
+
+* Create a landing page built in HTML / CSS or in React to showcase the features, functionality, and instructions for how to play your game.  Host the landing page with an online deployment tool, such as : 
+  - [netlify](https://www.netlify.com/)
+  - [surge.sh](https://surge.sh/)
+  - [github pages](https://pages.github.com/)
+  - [Vercel (Zeit Now)](https://vercel.com/)
+  - [Amazon Web Services S3](https://aws.amazon.com/)
+  - [Digital Ocean](https://try.digitalocean.com/developerbrand/?_dkitrig=Cloud)
   
 * It may be interesting to see how you can integrate the Java libraries with react.  You may not need to, but look and see if this is possible.  Looking forward to hear about your findings
