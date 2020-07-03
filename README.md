@@ -8,21 +8,22 @@
 * Asteriods
 * Pac Man
 * Chess
-* Checkers
-* connect four
-* Pong
-* Hungry Snake
+* [Checkers](https://www.247checkers.com/)
+* [connect four](https://www.mathsisfun.com/games/connect4.html)
+* [Pong](https://playpong.net/)
+* [Hungry Snake](https://www.mathsisfun.com/games/snake.html)
 * Dungeon
 * Hangman
 * Nudoko
 * Minesweeper
 * Connect Four
-* Speed Racer (needs GUI library)
-* 2048-cli
-* ascii-jump
-* bombadier
-* lode runner
-* tank wars
+* [CRT Racer](https://kronbits.itch.io/crt-racer) 
+* [CRT Racer++](https://www.ultimateracing2d.com/)
+* [2048-cli](https://play2048.co/)
+* [ascii-jump](https://delightlylinux.wordpress.com/2015/04/06/asciijump-the-ski-jumping-terminal-game/)
+* [bombadier](https://www.youtube.com/watch?v=ybTfXN9ywNM)
+* [lode runner](http://loderunnerwebgame.com/game/)
+* [tank wars](https://playclassic.games/games/strategy-dos-games-online/play-tank-wars-online/play/)
 * [Flappy Bird](https://flappybird.io/)
   
 Take a look at the screenshots of these games in the <code>game-ideas</code> folder.  You will notice that there are some sample <code>gui</code> games as well, for those who want to go for the Bonus points.  What is required though, is to make a purely ascii-based game that can be run in the terminal.
