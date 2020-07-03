@@ -3,23 +3,31 @@
 
 1. There is a file <code>OOP.md</code> in the root level of this repository.  Please answer the questions in that file.
 
-
-
-2. Create a terminal based, 2D game.  Written in Java.  The following are **some** game ideas:
+2. Create a terminal based, 2D game.  Written in Java.  The following are the game ideas:
 * Space Invaders
 * Asteriods
 * Pac Man
 * Chess
 * Checkers
+* connect four
 * Pong
 * Hungry Snake
-* Dungeons & Dragons
+* Dungeon
 * Hangman
-* Minecraft
+* Nudoko
+* Minesweeper
 * Connect Four
-* Speed Racer
-* Waves
+* Speed Racer (needs GUI library)
 * 2048-cli
+* ascii-jump
+* bombadier
+* lode runner
+* tank wars
+* [Flappy Bird](https://flappybird.io/)
+  
+Take a look at the screenshots of these games in the <code>game-ideas</code> folder.  You will notice that there are some sample <code>gui</code> games as well, for those who want to go for the Bonus points.  What is required though, is to make a purely ascii-based game that can be run in the terminal.
+
+It is **highly recommended** to choose a game from the above list, but if your heart :yellow_heart: is completely set on something else, you can create a game that is not on the above list.  But you may get asked about your decision on why you decided to create a game that wasn't on the above list.
 
 Please check out the sample screenshots of a few game ideas.  The screenshots can be found in the <code>./game-ideas</code> folder in this Github repository.  
 
@@ -73,6 +81,7 @@ A final point to note, as you code the project, you will mmost likely need to go
 <h3>Your Java game must:</h3>
 
 - Be functional and playable by a user
+- Instructions for how to play the game must be built into the game as well as available as a separate file.  The file name should be called : <code>instructions.md</code>
 
 - Include elements of the game using Java classes that adhere to the four pillars of Object Oriented Programming: 
   
@@ -88,6 +97,7 @@ A final point to note, as you code the project, you will mmost likely need to go
 - Have an organized and logical project structure with at least 1 package
 - Have some type of error handling for bad user input (incorrect key press, etc.)
 
+- Create a landing page built in HTML / CSS or in React to showcase the features, functionality, and instructions for how to play your game.  
 
 
 ****************************************************************
