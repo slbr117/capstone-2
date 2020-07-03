@@ -92,6 +92,7 @@ A final point to note, as you code the project, you will mmost likely need to go
   3.  Abstraction
   4.  Polymorphism 
 
+- Each "game object" or "entity" of your game must be modelled using a Java Class
 - Implement at least 1 Interface
 - Implement at least 1 Abstract class
 - Implement at least 1 lambda expression
