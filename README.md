@@ -3,7 +3,7 @@
 
 1. There is a file <code>OOP.md</code> in the root level of this repository.  Please answer the questions in that file.
 
-2. Create a terminal based, 2D game.  Written in Java.  The following are the game ideas:
+2. Create a terminal based, 2D game.  Written in Java.  Following are the game ideas:
 * [Space Invaders](https://www.andoverpatio.co.uk/21/space-invaders/)
 * [Asteriods](https://arcade.ly/games/asteroids/)
 * [Pac Man](https://pacman.live/play.html)
