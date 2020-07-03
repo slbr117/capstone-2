@@ -4,27 +4,29 @@
 1. There is a file <code>OOP.md</code> in the root level of this repository.  Please answer the questions in that file.
 
 2. Create a terminal based, 2D game.  Written in Java.  The following are the game ideas:
-* Space Invaders
-* Asteriods
-* Pac Man
-* Chess
+* [Space Invaders](https://www.andoverpatio.co.uk/21/space-invaders/)
+* [Asteriods](https://arcade.ly/games/asteroids/)
+* [Pac Man](https://pacman.live/play.html)
+* [Chess](https://cardgames.io/chess/)
 * [Checkers](https://www.247checkers.com/)
 * [connect four](https://www.mathsisfun.com/games/connect4.html)
 * [Pong](https://playpong.net/)
 * [Hungry Snake](https://www.mathsisfun.com/games/snake.html)
-* Dungeon
-* Hangman
-* Nudoko
-* Minesweeper
-* Connect Four
+* [Asc Dungeon](https://www.youtube.com/watch?v=MSxYgPZyNdM)
+* [Hangman](https://hangmanwordgame.com/?fca=1&success=0#/)
+* [Sudoko](https://sudoku.game/)
+* [Minesweeper](https://cardgames.io/minesweeper/)
+* [Connect Four](https://www.mathsisfun.com/games/connect4.html)
 * [CRT Racer](https://kronbits.itch.io/crt-racer) 
-* [CRT Racer++](https://www.ultimateracing2d.com/)
+* [CRT Racer++](https://www.ultimateracing2d.com/) 
 * [2048-cli](https://play2048.co/)
 * [ascii-jump](https://delightlylinux.wordpress.com/2015/04/06/asciijump-the-ski-jumping-terminal-game/)
 * [bombadier](https://www.youtube.com/watch?v=ybTfXN9ywNM)
 * [lode runner](http://loderunnerwebgame.com/game/)
 * [tank wars](https://playclassic.games/games/strategy-dos-games-online/play-tank-wars-online/play/)
 * [Flappy Bird](https://flappybird.io/)
+* [Pong](https://pong-2.com/)
+* [Tetris ](https://tetris.com/games-content/sanrio01/index-mobile.php)
   
 Take a look at the screenshots of these games in the <code>game-ideas</code> folder.  You will notice that there are some sample <code>gui</code> games as well, for those who want to go for the Bonus points.  What is required though, is to make a purely ascii-based game that can be run in the terminal.
 
