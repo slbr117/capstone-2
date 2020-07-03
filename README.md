@@ -28,9 +28,9 @@
 * [Pong](https://pong-2.com/)
 * [Tetris ](https://tetris.com/games-content/sanrio01/index-mobile.php)
   
-Take a look at the screenshots of these games in the <code>game-ideas</code> folder.  You will notice that there are some sample <code>gui</code> games as well, for those who want to go for the Bonus points.  What is required though, is to make a purely ascii-based game that can be run in the terminal.
+Take a look at the screenshots of these games in the <code>game-ideas</code> folder.  You will notice that there are some sample <code>gui</code> games as well, for those who want to go for the Bonus points.  **What is required though, is to make a purely ascii-based game that can be run in the terminal.**
 
-It is **highly recommended** to choose a game from the above list, but if your heart :yellow_heart: is completely set on something else, you can create a game that is not on the above list.  But you may get asked about your decision on why you decided to create a game that wasn't on the above list.
+It is **highly recommended** to choose a game from the above list, but if your heart :yellow_heart: is completely set on something else, you can create a game that is not on the above list.  Realize though, that you may get asked about your decision on why you decided to create a game that wasn't on the above list.
 
 Please check out the sample screenshots of a few game ideas.  The screenshots can be found in the <code>./game-ideas</code> folder in this Github repository.  
 
@@ -105,7 +105,7 @@ A final point to note, as you code the project, you will mmost likely need to go
 
 ****************************************************************
 * <h2>Bonus ⭐️ ⭐️ ⭐️ ⭐️ ⭐️</h2>
-* Incorporate at least 3 SOLID principles of Object Oriented Design into your project.  
+* Incorporate at least 2 SOLID principles of Object Oriented Design into your project.  
 
   * Single Responsibility Principle
   * Open Closed Principle
@@ -113,14 +113,13 @@ A final point to note, as you code the project, you will mmost likely need to go
   * Interface Segregation Principle
   * Dependency Inversion Principle
 
-* Incorporate at least 3 Object Oriented Design Patterns into your project.  There are many patterns, but here are a few examples:
+* Incorporate at least 2 Object Oriented Design Patterns into your project.  There are many patterns, but here are a few examples:
   
   * Singleton
   * Decorator
   * Facade
   * Observer
   * Chain of Responsibility
-
 
 For the OOD Principles and OOD Patterns, you should be able to explain them clearly and demonstrate how you used them in your code to earn the full bonus points on these categories.
 
@@ -131,3 +130,6 @@ For the OOD Principles and OOD Patterns, you should be able to explain them clea
   * [LWJGL](https://www.lwjgl.org/)
   * [libGDX](https://libgdx.badlogicgames.com/)
   * [LITIENGINE](https://litiengine.com/)
+  * [Java Swing](https://docs.oracle.com/javase/tutorial/uiswing/)
+  
+* It may be interesting to see how you can integrate the Java libraries with react.  You may not need to, but look and see if this is possible.  Looking forward to hear about your findings
