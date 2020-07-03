@@ -100,7 +100,13 @@ A final point to note, as you code the project, you will mmost likely need to go
 - Have an organized and logical project structure with at least 1 package
 - Have some type of error handling for bad user input (incorrect key press, etc.)
 
-- Create a landing page built in HTML / CSS or in React to showcase the features, functionality, and instructions for how to play your game.  
+- Create a landing page built in HTML / CSS or in React to showcase the features, functionality, and instructions for how to play your game.  Host the landing page online an online tool, such as : 
+  - [netlify](https://www.netlify.com/)
+  - [surge.sh](https://surge.sh/)
+  - [github pages](https://pages.github.com/)
+  - [Vercel (Zeit Now)](https://vercel.com/)
+  - [Amazon Web Services S3](https://aws.amazon.com/)
+  - [Digital Ocean](https://try.digitalocean.com/developerbrand/?_dkitrig=Cloud)
 
 
 ****************************************************************
